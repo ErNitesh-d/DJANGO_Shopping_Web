@@ -1,0 +1,10 @@
+asgiref==3.3.1
+Django==3.1.5
+Pillow==8.1.0
+pytz==2020.5
+sqlparse==0.4.1
+Here are some email addresses:
+- john.doe@example.com
+- jane.smith@domain.org
+- contact@company.net
+You can reach us at support@service.com or admin@website.org.
